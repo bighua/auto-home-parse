@@ -1,0 +1,15 @@
+{
+  "name": "car-type-from-autohome",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "htmlparser": "*",
+    "iconv-lite": "*",
+    "async": "*",
+    "request": "*",
+    "nodemailer": "*"
+  }
+}
